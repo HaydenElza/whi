@@ -1,0 +1,3 @@
+bulk_lookup.py			Creates copy of image with DTRS appended to name and saves in separate folder
+township_folders.py		Places images in folders according to township naming convention
+crop.py					Creates cropped images in new folder maintaining township folders
